@@ -1,0 +1,5 @@
+{
+  "name": "TomiraShop",
+  "description": "Plataforma de e-commerce e entregas em Moçambique, com suporte a línguas locais e pagamentos integrados.",
+  "requestFramePermissions": ["geolocation"]
+}
